@@ -9,7 +9,7 @@
 <!-- <p align='center'><img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
 
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://github.com/psanthosh07/psanthosh07/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /></img> <br>
 <br>
 - Passionate Pre-Final Year B.Tech CSE student at SRM KTR
