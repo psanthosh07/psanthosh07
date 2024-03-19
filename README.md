@@ -13,6 +13,7 @@
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /></img> <br>
 <br>
 - Passionate Pre-Final Year B.Tech CSE student at SRM KTR
+- Certified Google Cloud Digital Leader
 - Currently learning Cloud Computing and DevOps
 - Currently Participating in 365 Days of Code Challenge
 - I’m currently open for an Intern or a new job opportunity
