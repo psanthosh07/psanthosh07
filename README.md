@@ -12,7 +12,7 @@
 # <picture><img src = "https://github.com/psanthosh07/psanthosh07/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" /></img> <br>
 <br>
-- Passionate Pre-Final Year B.Tech CSE student at SRM KTR
+- Passionate Final Year B.Tech CSE student at SRM KTR
 - Certified Google Cloud Digital Leader
 - Currently learning Cloud Computing and DevOps
 - Currently Participating in 365 Days of Code Challenge
